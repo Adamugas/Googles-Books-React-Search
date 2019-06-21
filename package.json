@@ -1,0 +1,33 @@
+{
+  "name": "googles-books-react-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mongoose": "^5.6.0",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "routes": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamugas/Googles-Books-React-Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adamugas/Googles-Books-React-Search/issues"
+  },
+  "homepage": "https://github.com/Adamugas/Googles-Books-React-Search#readme"
+}
